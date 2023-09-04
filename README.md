@@ -1,4 +1,4 @@
-# reaction-timer
+# vuejsstep3 (reaction-timer)
 
 Vue.js concepts :
 - Lifecycle hooks
