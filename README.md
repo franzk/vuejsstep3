@@ -1,5 +1,9 @@
 # reaction-timer
 
+Vue.js concepts :
+- Lifecycle hooks
+- Custom events with data
+
 ## Project setup
 ```
 npm install
